@@ -1,2 +1,3 @@
 feature3
-feature3 from remoteRepo
+feature3 from master remote
+
